@@ -1,4 +1,8 @@
 # Web-Development-with-Open-Source
+### ✨On the 29th of September, the Google Developer Student Club_BU community gathered for an enlightening session that promised to transform our perspectives on web development. We were privileged to host the 🌟distinguished speaker, [ABU HANZALA REHAN ANSARI](https://github.com/ahra2025), whose industry experience served as a guiding light for all of us, from beginners to advanced enthusiasts.
+
+### 🎗️Er. [ABU HANZALA REHAN ANSARI](https://github.com/ahra2025) didn't just share his experience; they also patiently answered every query, weaving a bridge from theory to real-world application. It was a session that took us from the realm of possibilities into the tangible world of web development.
+
 ![1](https://github.com/GDSC23BundelkhandUniversity/Web-Development-with-Open-Source/assets/114987574/45b073de-0752-4443-99fa-f672b3eb3811)
 ![2](https://github.com/GDSC23BundelkhandUniversity/Web-Development-with-Open-Source/assets/114987574/8c6fe3e1-3695-4ae6-850b-549909c52e60)
 ![3](https://github.com/GDSC23BundelkhandUniversity/Web-Development-with-Open-Source/assets/114987574/299bc5e5-8d8c-4126-8063-759bafc0f24d)
