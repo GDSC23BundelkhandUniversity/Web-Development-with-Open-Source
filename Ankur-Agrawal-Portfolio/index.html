@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ankur's Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital@0;1&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div cl ass="l-div"> <a href="index.html">Ankur's Portfolio</a> </div>
+
+            <div class="r-div">
+                <ul>
+                    <li> <a href="other-pages/about.html">About </a> </li>
+                    <li> <a href="other-pages/tech-stack.html"> Known Technologies </a> </li>
+                    <li> <a href="other-pages/blog.html">Blog </a> </li>
+                    <li> <a href="other-pages/contact.html">Contact Me </a> </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="First-Section">
+            <div class="fs-left-div">
+                Hey,
+                <div>This is <span class="purple">Ankur</span></div>
+                <span id="element"></span>
+            </div>
+            <div class="fs-right-div">
+                <img src="Images/2a53651a35816f499270d8275fd5318f.gif" alt="" height="300">
+            </div>
+        </section>
+
+
+    </main>
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed('#element', {
+            strings: ['A CyberSec Enthusiast', 'A Python Developer', 'A Writer', 'and a Book-Worm'],
+            typeSpeed: 50,
+        });
+
+    </script>
+</body>
+
+</html>
